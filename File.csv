@@ -1,4 +1,4 @@
-Entity,Relates,Entity,
+NodeA,Relates,NodeB,
 Policy,held by,Customer,
 Policy,has,sections,
 Policy ,will have ,layers,
